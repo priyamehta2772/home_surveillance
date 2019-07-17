@@ -49,7 +49,7 @@ class MainActivity : AppCompatActivity() {
 
         askPermission()
 
-        mStorageRef = FirebaseStorage.getInstance().getReference()
+        mStorageRef = FirebaseStorage.getInstance().reference
 
         Log.v("Analyzer", mStorageRef.toString())
         Log.v("Analyzer", mStorageRef?.bucket)
@@ -101,7 +101,7 @@ class MainActivity : AppCompatActivity() {
         var progressDialog = ProgressDialog(this)
         progressDialog.setTitle("Uploading")
         progressDialog.setMessage("Please wait while uploading photo")
-        progressDialog.setCancelable(false);
+        progressDialog.setCancelable(false)
         progressDialog.show()
 
         when(requestCode){

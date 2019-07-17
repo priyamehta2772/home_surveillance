@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "349750488126",
+    "firebase_url": "https://facerecognition-b93a7.firebaseio.com",
+    "project_id": "facerecognition-b93a7",
+    "storage_bucket": "facerecognition-b93a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349750488126:android:271690eac49b4cc6",
+        "android_client_info": {
+          "package_name": "com.meet.photoanalyser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349750488126-71282ucesvq9cp4klcd8lce29vbbkdp6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meet.photoanalyser",
+            "certificate_hash": "ea9ea428d744664748a81f1fad0e52c620b3f868"
+          }
+        },
+        {
+          "client_id": "349750488126-r2pgood01q4qsn4k2k9uoimc65faqb7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8owBQE55vzUfC68nkse7a2AeKOrAPe34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349750488126-r2pgood01q4qsn4k2k9uoimc65faqb7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

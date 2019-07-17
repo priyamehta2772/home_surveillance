@@ -13,4 +13,7 @@ Table/Desk
 Chair
 Sofa
 Bed
+Fan
+Tubelight
+Plugs
 

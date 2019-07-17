@@ -9,7 +9,7 @@ Staircase
 . Elevator
 
 Secondary objects (all of many types):
-AC
+. AC
 . Table/Desk
 . Chair
 . Cupboard/Almirah
@@ -20,3 +20,5 @@ Tubelight -> difficult as it is white
 Bulb
 Plugs
 
+
+"." this means that I've added images (Meet)

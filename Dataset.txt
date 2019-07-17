@@ -11,9 +11,12 @@ Elevator
 Secondary objects (all of many types):
 Table/Desk
 Chair
+Cupboard
+Almirah
 Sofa
 Bed
 Fan
 Tubelight
+Bulb
 Plugs
 

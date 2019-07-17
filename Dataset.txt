@@ -1,0 +1,16 @@
+Collecting Dataset Images
+
+Necessary objects that make outline of a room:
+Door (Many types)
+Window (Many types)
+Wall
+Roof
+Staircase
+Elevator
+
+Secondary objects (all of many types):
+Table/Desk
+Chair
+Sofa
+Bed
+

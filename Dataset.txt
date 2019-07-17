@@ -6,17 +6,17 @@ Window (Many types)
 Wall
 Roof
 Staircase
-Elevator
+. Elevator
 
 Secondary objects (all of many types):
-Table/Desk
-Chair
-Cupboard
-Almirah
-Sofa
-Bed
-Fan
-Tubelight
+AC
+. Table/Desk
+. Chair
+. Cupboard/Almirah
+. Sofa
+. Bed
+. Fan
+Tubelight -> difficult as it is white
 Bulb
 Plugs
 

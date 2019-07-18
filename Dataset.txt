@@ -3,10 +3,12 @@ Collecting Dataset Images
 Necessary objects that make outline of a room:
 Door (Many types)
 Window (Many types)
-Wall
-Roof
+Floor
 . Staircase
 . Elevator
+
+Not including Wall and Roof for now in the dataset as they are part of background.
+But to detect walking space and area of room, floor is important so including that in the dataset.
 
 Secondary objects (all of many types):
 . AC

@@ -5,7 +5,7 @@ Door (Many types)
 Window (Many types)
 Wall
 Roof
-Staircase
+. Staircase
 . Elevator
 
 Secondary objects (all of many types):

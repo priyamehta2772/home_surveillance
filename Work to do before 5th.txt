@@ -1,0 +1,12 @@
+<Minimum>
+
+1. create a trained model on ML kit
+Using Auto ML or Tensor flow or anything
+
+then combine in app
+
+2. Create box around the object that we can see given to us
+
+
+<Stretch Goal>
+Create a better layout theme and a larger dataset
